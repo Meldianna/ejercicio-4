@@ -1,0 +1,68 @@
+#seccion1{
+    background-color: rgb(16, 191, 255);
+    margin: 20px;
+    padding: 15px;
+}
+
+#seccion2{
+    background-image: url(/ims/ciudad.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#seccion3{
+    border: 2px solid red;
+    border-radius: 10px;
+}
+
+.editar_parrafo{
+    border: 2px solid black;
+    padding: 10px;
+    font-weight: bold;
+}
+
+#editar_div{
+    background-color: yellow;
+    text-align: center;
+}
+
+#seccion6{
+    background-color: gold;
+    border: 5px double purple;
+    margin: 40px;
+}
+
+#seccion7{
+    background-image: url(/ims/sunflower.jpeg);
+    background-position: right bottom;
+    background-size: 200px;
+    background-repeat: no-repeat;
+}
+
+#seccion8{
+    background-image: url(ims/LogoUADE.png);
+    background-repeat: repeat-y;
+    background-size: 50%;
+
+}
+
+#seccion9{
+    background-color: rgba(229, 239, 166, 0.485);
+    background-image: url(ims/el_principito.jpg);
+    background-size: 50px;
+    background-position: right;
+    background-repeat: repeat-y;
+
+}
+
+#boton_editar{
+    background-color: blue;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+#seccion10{
+    border: 3px dotted rgb(86, 190, 41);
+    padding: 25px;
+    width: 50%;
+}
